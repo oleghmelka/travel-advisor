@@ -1,6 +1,6 @@
 ### Travel advisor App
 
-It is React application for a comfortable search of restaurants, hotels, and attractions during the trip.
+It is a React application for a comfortable search of restaurants, hotels, and attractions during the trip.
 
 - This is my pet-project
 - Realized with React and Material-UI libraries
